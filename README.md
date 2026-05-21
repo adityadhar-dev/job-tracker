@@ -14,7 +14,7 @@ A lightweight command-line tool to track job applications, follow-ups, and inter
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/job-tracker.git
+git clone https://github.com/adityadhar-dev/job-tracker.git
 cd job-tracker
 
 # No dependencies needed — uses Python standard library only
@@ -70,4 +70,4 @@ Tracking 20+ job applications across spreadsheets and browser tabs is chaos. Thi
 
 ---
 
-Built by Aditya Dhar | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+Built by Aditya Dhar | [LinkedIn](https://www.linkedin.com/in/aditya-dhar-777921242)
